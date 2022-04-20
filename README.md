@@ -32,7 +32,8 @@ Our model was also able to assign probabilistic ratio for each word used from a 
 
 
 ## Next Steps
-The next steps include considering more robust models (layers with larger nodes) for an improved performance. Also, in this project I was aspired to implement transformer models which have significantly higher performance compared to the traditional LSTM model. The dataset used in this project have binary classes. It would be interesting to test the model performance on a star-based rating, instead of positive or negative reviews. 
+The next steps include considering more robust models (layers with larger nodes) for an improved performance. Also, in this project I was aspired to implement transformer models which have significantly higher performance compared to the traditional LSTM model. The dataset used in this project have binary classes. It would be interesting to test the model performance on a star-based rating, instead of positive or negative reviews. Furthermore, creating a web deployable application for an interactive feedback is the next step. 
+
 
 ## For More Information
 
@@ -50,4 +51,5 @@ For additional info, contact the author at [afanta@alumni.cmu.edu](mailto:afanta
 ├── template
 ├── README.md
 ├── presentation.pdf
+├── cleaned data (Available at: https://drive.google.com/file/d/12dq639T0uV8Ic1hG3owgpMEY5Mq-XNIa/view?usp=drivesdk)
 └── index.ipynb
