@@ -1,5 +1,4 @@
 # Amazon Review Sentiment Analysis
-Abeselom Fanta Flex 20 Weeks Instructor: Abhineet Kulkarni
 
 ## Business Understanding
 Sentiment analysis is one the of the most important tasks to understand user satisfaction. Most websites that offer products and services have various means of keeping track of user satisfaction criteria, such as stars-based system. However, most users are disincentivized to provide accurate rating for the products or services they purchased. In addition, manually sorting through users’ comments to determine if the comments left by users/clients is positive or negative takes a lot of work. Therefore, the problem necessitates an automated way to determine sentiment analysis of clients.
