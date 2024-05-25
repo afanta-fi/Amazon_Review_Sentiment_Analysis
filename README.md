@@ -38,8 +38,6 @@ The next steps include considering more robust models (layers with larger nodes)
 
 See the full analysis in the [Jupyter Notebook](./index.ipynb) or review this [presentation](./presentation.pdf).
 
-For additional info, contact the author at [afanta@alumni.cmu.edu](mailto:afanta@alumni.cmu.edu)
-
 ## Repository Structure
 
 ```
